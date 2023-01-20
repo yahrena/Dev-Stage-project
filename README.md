@@ -17,6 +17,8 @@ then
 
 in the Server/ directory, also run:
 
+URI: set username, password and database_name in the .env file
+
 to install modules
 
 #npm install
